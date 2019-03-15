@@ -23,7 +23,19 @@ For the best visual effect, please make sure the scale of your PC is 100% or 200
 
 
 
+### notepad
+
+![notepad](https://raw.githubusercontent.com/zhangjianying/mactype-config/master/images/notepad.png)
+
 ### qq
 
+![qq.png](https://raw.githubusercontent.com/zhangjianying/mactype-config/master/images/qq.png)
 
+### webchat
+
+![webchat](https://raw.githubusercontent.com/zhangjianying/mactype-config/master/images/webchat.png)
+
+### chrome
+
+![chrome](https://raw.githubusercontent.com/zhangjianying/mactype-config/master/images/zhihu.png)
 
